@@ -10,6 +10,21 @@ main {
     margin-right:80px;
     background-color:#333
 }
+.flex-onerow {
+    display: flex;
+    display: -webkit-flex;
+    width: 75vw;
+    font-size: 1.5em;
+}
+footer {
+    margin-top: 2vw;
+    padding: 1vw;
+    width: 35vw;
+    font-size: 1.2vw;
+}
+.flex-credits {
+    display: flex;
+}
 p {
     padding-left: 3vw;
 }
