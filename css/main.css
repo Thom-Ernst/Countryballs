@@ -1,11 +1,10 @@
 body {
-    font: 1em "Trebuchet MS", Helvetica, sans-serif;
+    font: 0.9em "Trebuchet MS", Helvetica, sans-serif;
     color: white;
     background-color: #000;
 }
 main {
     margin-top:25px; 
-    padding-right:4vw;
     margin-left:25px;
     margin-right:80px;
     background-color:#333
