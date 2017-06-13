@@ -21,6 +21,11 @@ footer {
     width: 35vw;
     font-size: 1.2vw;
 }
+.epilogue {
+    margin-left: 15vw;
+    margin-right: 30vw;
+    font-size: 1vw;
+}
 .flex-credits {
     display: flex;
 }
